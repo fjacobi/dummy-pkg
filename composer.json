@@ -1,6 +1,7 @@
 {
   "name": "fjacobi/dummy-pkg",
   "description": "A dummy package to reserve a vendor namespace",
+  "license": "MIT",
   "authors": [
     {
       "name": "Felix Jacobi",
