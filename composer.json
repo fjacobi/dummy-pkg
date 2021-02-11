@@ -1,0 +1,10 @@
+{
+  "name": "fjacobi/dummy-pkg",
+  "description": "A dummy package to reserve a vendor namespace",
+  "authors": [
+    {
+      "name": "Felix Jacobi",
+      "role": "Developer"
+    }
+  ]
+}
